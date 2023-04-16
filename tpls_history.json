@@ -1,0 +1,17 @@
+{
+    "version": "20230315",
+    "har": {
+        "saraba1st": {
+            "name": "saraba1st",
+            "author": "LukeHoi",
+            "url": "https://raw.githubusercontent.com/Luke9570/templates-L/master/saraba1st.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://bbs.saraba1st.com/",
+            "filename": "saraba1st.har",
+            "content": "",
+            "date": "2023-04-16 16:15:00",
+            "version": "20230416",
+            "commenturl": ""
+        }
+    }
+}

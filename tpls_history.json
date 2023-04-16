@@ -1,10 +1,10 @@
 {
-    "version": "20230315",
+    "version": "20230416",
     "har": {
         "saraba1st": {
             "name": "saraba1st",
             "author": "LukeHoi",
-            "url": "https://raw.githubusercontent.com/Luke9570/templates-L/master/saraba1st.har",
+            "url": "https://raw.githubusercontent.com/Luke9570/templates-L/main/saraba1st.har",
             "update": false,
             "comments": "首页Cookie<br>https://bbs.saraba1st.com/",
             "filename": "saraba1st.har",
@@ -12,6 +12,102 @@
             "date": "2023-04-16 16:15:00",
             "version": "20230416",
             "commenturl": ""
-        }
+        },
+        "189天翼云盘-账号版": {
+            "name": "189天翼云盘-账号版",  	
+			"author": "a76yyyy",
+            "url": "https://raw.githubusercontent.com/Luke9570/templates-L/main/189天翼云盘-账号版.har",
+            "update": false,
+            "comments": "用户名+密码<br>用户名为手机号<br>https://cloud.189.cn/",
+            "filename": "189天翼云盘-账号版.har",
+            "content": "",
+            "date": "2023-01-01 20:30:00",
+            "version": "20230101",
+            "commenturl": ""
+        },
+        "HDDolby": {
+            "name": "HDDolby",
+      	    "author": "LukeHoi",
+            "url": "https://raw.githubusercontent.com/Luke9570/templates-L/main/HD_Dolby.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://www.hddolby.com/",
+            "filename": "HD_Dolby.har",
+            "content": "",
+            "date": "2023-04-16 16:45:00",
+            "version": "20230416",
+            "commenturl": ""
+        },
+        "HDArea": {
+            "name": "HDArea",
+      	    "author": "LukeHoi",
+            "url": "https://raw.githubusercontent.com/Luke9570/templates-L/main/HDArea.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://www.hdarea.co/",
+            "filename": "HDArea.har",
+            "content": "",
+            "date": "2023-04-16 16:45:00",
+            "version": "20230416",
+            "commenturl": ""
+        },
+        "HDfans": {
+            "name": "HDfans",
+      	    "author": "LukeHoi",
+            "url": "https://raw.githubusercontent.com/Luke9570/templates-L/main/HDfans.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://hdfans.org/",
+            "filename": "HDfans.har",
+            "content": "",
+            "date": "2023-04-16 16:45:00",
+            "version": "20230416",
+            "commenturl": ""
+        },
+        "HDtime": {
+            "name": "HDtime",
+      	    "author": "LukeHoi",
+            "url": "https://raw.githubusercontent.com/Luke9570/templates-L/main/HDtime.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://hdtime.org/",
+            "filename": "HDtime.har",
+            "content": "",
+            "date": "2023-04-16 16:45:00",
+            "version": "20230416",
+            "commenturl": ""
+        },
+        "Haidan": {
+            "name": "Haidan",
+      	    "author": "LukeHoi",
+            "url": "https://raw.githubusercontent.com/Luke9570/templates-L/main/Haidan.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://www.haidan.video/",
+            "filename": "Haidan.har",
+            "content": "",
+            "date": "2023-04-16 16:45:00",
+            "version": "20230416",
+            "commenturl": ""
+        },
+        "Nicept": {
+            "name": "Nicept",
+      	    "author": "LukeHoi",
+            "url": "https://raw.githubusercontent.com/Luke9570/templates-L/main/Nicept.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://www.nicept.net/",
+            "filename": "Nicept.har",
+            "content": "",
+            "date": "2023-04-16 16:45:00",
+            "version": "20230416",
+            "commenturl": ""
+        },
+        "PTtime": {
+            "name": "PTtime",
+      	    "author": "LukeHoi",
+            "url": "https://raw.githubusercontent.com/Luke9570/templates-L/main/PTtime.har",
+            "update": false,
+            "comments": "首页Cookie<br>https://www.pttime.org/",
+            "filename": "PTtime.har",
+            "content": "",
+            "date": "2023-04-16 16:45:00",
+            "version": "20230416",
+            "commenturl": ""
+        },
     }
 }
